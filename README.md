@@ -7,6 +7,6 @@
 
 
 ## Not Recommended
-| Width | Length | Height | Volume | Weight (lb) | Weight (kg) | Screen Size (inches) | CPU (Watts) | Keyboard Layout | CPU Model | Memory | Brand | Model | Available New | Price + Location + Link |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| ❌ 312mm | ❌ 216mm | 17.6mm | 1.1 Liters | 3.08 Pounds | 1.4kg | 14 Inches | ❌ 45 Watts | Standard | x86 AMD 6800H 8 Cores 16 Threads | 16GB - 32GB LPDDR5 | Lenovo | 14p Generation 3 | No | |
+| Width | Length | Height | Volume | Weight (lb) | Weight (kg) | Screen Size (inches) | CPU (Watts) | Keyboard Layout | Geekbench 6 Single Core | Geekbench 6 Multi Core | CPU Model | Memory | Brand | Model | Available New | Price + Location + Link |
+| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| ❌ 312mm | ❌ 216mm | 17.6mm | 1.1 Liters | 3.08 Pounds | 1.4kg | 14 Inches | ❌ 45 Watts | Standard | [1836](https://www.cpu-monkey.com/en/cpu-amd_ryzen_7_6800h) | [8697](https://www.cpu-monkey.com/en/cpu-amd_ryzen_7_6800h) | x86 AMD 6800H 8 Cores 16 Threads | 16GB - 32GB LPDDR5 | Lenovo | 14p Generation 3 | No | |
